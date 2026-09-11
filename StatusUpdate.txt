@@ -1,0 +1,5 @@
+EAI Modernisation – Horizon 1 (MQ Upgrade): In progress – migration substantially complete, with ICP-UI remaining and Technical Architecture upgrades progressing for remaining applications.
+EAI Modernisation – Horizon 2 (Containerisation): In progress – containerisation Proof of Concept solution design and implementation underway to validate the future EAI platform architecture.
+EAI ComProxy Bridge Migration: On track – EAI planning completed, with platform build activities scheduled to commence from PI50.
+EAI SQL / SOE Upgrade: In progress – SQL and Windows Server uplift progressing, targeting completion by December 2026 ahead of Windows Server 2016 end-of-support in January 2027.
+EAI Operations: Stable – platform operating normally with no material service or operational concerns to report.
